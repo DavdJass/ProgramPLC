@@ -1,0 +1,1 @@
+C:\Users\COMPAS\source\repos\ProgramPLC\ProgramPLC\obj\Release\net8.0\win-x86\ProgramPLC.csproj.AssemblyReference.cache

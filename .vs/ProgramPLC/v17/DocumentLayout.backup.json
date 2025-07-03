@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\services\\plcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\services\\plcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\database\\analysisplccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\database\\analysisplccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\programplc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\programplc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\programplc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\programplc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\parallelism\\devicemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\parallelism\\devicemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|c:\\users\\compas\\source\\repos\\programplc\\programplc\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1608D60D-3BBF-4DA0-B7FB-C8C2508145DE}|ProgramPLC\\ProgramPLC.csproj|solutionrelative:programplc\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramPLC",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\ProgramPLC.csproj",
+              "RelativeDocumentMoniker": "ProgramPLC\\ProgramPLC.csproj",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\ProgramPLC.csproj",
+              "RelativeToolTip": "ProgramPLC\\ProgramPLC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T18:28:30.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgramPLC.csproj",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\ProgramPLC.csproj",
+              "RelativeDocumentMoniker": "ProgramPLC\\ProgramPLC.csproj",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\ProgramPLC.csproj",
+              "RelativeToolTip": "ProgramPLC\\ProgramPLC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T16:58:01.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalysisPlcContext.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Database\\AnalysisPlcContext.cs",
+              "RelativeDocumentMoniker": "ProgramPLC\\Database\\AnalysisPlcContext.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Database\\AnalysisPlcContext.cs",
+              "RelativeToolTip": "ProgramPLC\\Database\\AnalysisPlcContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:27:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "ProgramPLC\\Services\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Services\\DeviceService.cs",
+              "RelativeToolTip": "ProgramPLC\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:04:15.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PLCservice.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Services\\PLCservice.cs",
+              "RelativeDocumentMoniker": "ProgramPLC\\Services\\PLCservice.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Services\\PLCservice.cs",
+              "RelativeToolTip": "ProgramPLC\\Services\\PLCservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:43:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Validations.cs",
+              "RelativeDocumentMoniker": "ProgramPLC\\Validations.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Validations.cs",
+              "RelativeToolTip": "ProgramPLC\\Validations.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:47:15.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Parallelism\\DeviceMonitor.cs",
+              "RelativeDocumentMoniker": "ProgramPLC\\Parallelism\\DeviceMonitor.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Parallelism\\DeviceMonitor.cs",
+              "RelativeToolTip": "ProgramPLC\\Parallelism\\DeviceMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:46:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramPLC\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\source\\repos\\ProgramPLC\\ProgramPLC\\Program.cs",
+              "RelativeToolTip": "ProgramPLC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:22:27.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
